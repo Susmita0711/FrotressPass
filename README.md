@@ -4,6 +4,7 @@ Password Strenght Checker
 
 ## Interface
 
-<img width="1872" height="900" alt="image" src="https://github.com/user-attachments/assets/54dbede3-6238-4eab-bf78-d7d08b080af6" />
+<img width="1846" height="906" alt="image" src="https://github.com/user-attachments/assets/37da0d18-5931-48a6-85de-73a220d0a20f" />
 
-<img width="1836" height="880" alt="image" src="https://github.com/user-attachments/assets/102406c0-970f-4239-9f6b-cd4ce41ba1a5" />
+<img width="1810" height="852" alt="image" src="https://github.com/user-attachments/assets/d21b8140-9263-495e-8d58-56027051f100" />
+
