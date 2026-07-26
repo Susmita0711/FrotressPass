@@ -7,7 +7,7 @@ A modern, client-side security application designed to analyze password entropy,
 
 ## 🚀 Live Demo
 
-🔗 **[Click Here to Try FortressPass Live](susmitapasstrenghtchecker.netlify.app)**
+🔗 susmitapasstrenghtchecker.netlify.app
 
 ---
 
