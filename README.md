@@ -7,7 +7,7 @@ A modern, client-side security application designed to analyze password entropy,
 
 ## 🚀 Live Demo
 
-🔗 susmitapasstrenghtchecker.netlify.app
+🔗 https://susmitapasstrenghtchecker.netlify.app/
 
 ---
 
