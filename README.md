@@ -43,12 +43,3 @@ A modern, client-side security application designed to analyze password entropy,
 * **Publish Directory:** `dist` (or `.next` / `out` depending on framework)
 
 ---
-
-## ⚙️ Local Development
-
-### Prerequisites
-
-* Node.js (v18.0 or higher recommended)
-* npm / yarn / pnpm
-https://github.com/YOUR_USERNAME/fortress-pass.git](https://github.com/YOUR_USERNAME/fortress-pass.git)
-   cd fortress-pass
