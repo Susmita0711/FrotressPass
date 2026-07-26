@@ -1,1 +1,1 @@
-# Password_Strenght_Cheaker
+# Password_Strenght_Cheacker
